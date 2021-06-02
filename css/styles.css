@@ -177,7 +177,7 @@ body {
       rgba(47, 48, 58, 0.58),
       rgba(47, 48, 58, 0.58)
     ),
-    url(/imj/bakgraund-img/bakimg.jpg);
+    url(./imj/bakgraund-img/bakimg.jpg);
   color: #ffffff;
   max-width: 1600px;
   margin-left: auto;
